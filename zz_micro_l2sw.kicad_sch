@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "447897ee-d593-43ec-bbc2-e24b07b28d45")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 256.54 217.17)
+		(size 12.7 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "43730108-c6e7-4151-af9e-1889dcc6ce2f")
+		(property "Sheetname" "Power"
+			(at 256.54 216.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 256.54 243.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zz_micro_l2sw"
+				(path "/447897ee-d593-43ec-bbc2-e24b07b28d45"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 226.06 217.17)
+		(size 12.7 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "45121688-a0e8-42e5-8ba5-61f443104c1b")
+		(property "Sheetname" "RPico"
+			(at 226.06 216.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RPico.kicad_sch"
+			(at 226.06 236.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zz_micro_l2sw"
+				(path "/447897ee-d593-43ec-bbc2-e24b07b28d45"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 300.99 219.71)
+		(size 12.7 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4df46357-7449-4c23-ae83-d56c3f71c2db")
+		(property "Sheetname" "ksz2pico"
+			(at 300.99 218.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ksz2pico.kicad_sch"
+			(at 300.99 239.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zz_micro_l2sw"
+				(path "/447897ee-d593-43ec-bbc2-e24b07b28d45"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 161.29 214.63)
+		(size 12.7 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "756cea57-7189-4442-b6ae-7ad410bad0b3")
+		(property "Sheetname" "ethernet"
+			(at 161.29 213.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ethernet.kicad_sch"
+			(at 161.29 236.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zz_micro_l2sw"
+				(path "/447897ee-d593-43ec-bbc2-e24b07b28d45"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 215.9)
+		(size 12.7 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bb1649fc-8d60-4861-843c-788f69c28015")
+		(property "Sheetname" "KSZ8795"
+			(at 190.5 215.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 190.5 239.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zz_micro_l2sw"
+				(path "/447897ee-d593-43ec-bbc2-e24b07b28d45"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
