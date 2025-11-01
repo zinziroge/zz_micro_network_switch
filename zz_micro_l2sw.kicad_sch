@@ -48,8 +48,8 @@
 		)
 	)
 	(sheet
-		(at 226.06 217.17)
-		(size 12.7 19.05)
+		(at 99.06 213.36)
+		(size 22.86 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -62,9 +62,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "45121688-a0e8-42e5-8ba5-61f443104c1b")
-		(property "Sheetname" "RPico"
-			(at 226.06 216.4584 0)
+		(uuid "57cab0ee-0d45-4d62-96d0-7b0dfdf67035")
+		(property "Sheetname" "RPico__"
+			(at 99.06 212.6484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,8 +72,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "RPico.kicad_sch"
-			(at 226.06 236.8046 0)
+		(property "Sheetfile" "RPico__.kicad_sch"
+			(at 99.06 239.3446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84,49 +84,7 @@
 		(instances
 			(project "zz_micro_l2sw"
 				(path "/447897ee-d593-43ec-bbc2-e24b07b28d45"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 300.99 219.71)
-		(size 12.7 19.05)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "4df46357-7449-4c23-ae83-d56c3f71c2db")
-		(property "Sheetname" "ksz2pico"
-			(at 300.99 218.9984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "ksz2pico.kicad_sch"
-			(at 300.99 239.3446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "zz_micro_l2sw"
-				(path "/447897ee-d593-43ec-bbc2-e24b07b28d45"
-					(page "4")
+					(page "7")
 				)
 			)
 		)

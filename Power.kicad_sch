@@ -3036,7 +3036,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 121.92 67.31 0)
 			(effects
 				(font
@@ -3729,7 +3729,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 88.9 144.78 0)
 			(effects
 				(font
@@ -4001,7 +4001,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 144.78 144.78 0)
 			(effects
 				(font
@@ -4137,7 +4137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 129.54 71.12 0)
 			(effects
 				(font
@@ -4413,7 +4413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 129.54 40.64 0)
 			(effects
 				(font
@@ -4618,7 +4618,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 144.78 109.22 0)
 			(effects
 				(font
@@ -5017,7 +5017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 121.92 36.83 0)
 			(effects
 				(font
@@ -5909,7 +5909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 107.95 105.41 0)
 			(effects
 				(font
@@ -7677,7 +7677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 82.55 71.12 0)
 			(effects
 				(font
